@@ -1,0 +1,10 @@
+There are two things- Programming and Good Programming. Programming is what we have all been doing. Now is the time to do good programming. We all know that even the bad code works. But it takes time and resources to make a program good. Moreover, other developers mock you when they are trying to find what all is happening in your code. But it’s never too late to care for your programs.
+This book has given me a lot of know
+
+
+ledge on what are the best practises and how to actually wr
+
+
+
+ite code. Now I feel ashamed of my coding skills. Though I always strive to better my code, this book has taught a lot more.
+Now, you are reading this blog for two reasons. First, you are a programmer. Second, you want to be a better programmer. We need better programmers.
