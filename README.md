@@ -28,6 +28,7 @@ e.g Content of  src/main/resources/input-file.txt
         sit amet.
     
  User Input Example:
+     Provide the user input as a command line arguments
  
     -r 64 src/main/resources/input-file.txt
     
