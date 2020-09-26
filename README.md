@@ -2,12 +2,14 @@
 
 This application needs 3 inputs from the user
    1.	Alignment Strategy
-         - It is the strategy with which you want to align your text 
-           *  -l for left alignment
+         - It is the strategy with which you want to align your text display in the console. 
+           * -l for left alignment
            * -r for right alignment
            * -c for center alignment
    2.	 Maximum Line Width
-         - Give the maximum line width of the text. The line width must be greater than 1 and less than 1000 (this value is configurable)
+         - Give the maximum line width of the text to be displayed in the console. 
+         - The line width must be greater than 2 and less than 1000 (these values are configurable).
+         - You can update MIN_LINE_WIDTH and MAX_LINE_WIDTH in constants/AlignmentConstants.java to change the above the values.
    3.	File path
          - Provide the path of the file whose contents you want to align. 
          - A sample file is present at location -> src/main/resources/input-file.txt
@@ -28,7 +30,7 @@ e.g Content of  src/main/resources/input-file.txt
         sit amet.
     
  User Input Example:
-        - Provide the user input as a command line arguments
+        - Provide the user input as a command line arguments.
  
     -r 64 src/main/resources/input-file.txt
     
